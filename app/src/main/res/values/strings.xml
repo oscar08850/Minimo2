@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub Followers</string>
+    <string name="explore_followers">EXPLORE REPOS</string>
+    <string name="user">User</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="repositories">Repositories:</string>
+    <string name="repos">repos</string>
+    <string name="b">b</string>
+    <string name="following">Following:</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="repositoris">REPOSITORIS</string>
+
+</resources>
